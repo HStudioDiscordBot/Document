@@ -1,8 +1,11 @@
 # Table of contents
 
+* [Introduce](README.md)
+* [แนะนำบอท](th-introduce.md)
+
 ## ทั่วไป <a href="#th-general" id="th-general"></a>
 
-* [เชิญบอท](README.md)
+* [เชิญบอท](<README (1).md>)
 * [ฟังเพลงแรก](th-general/start-listening.md)
 * [ฟังเพลงผ่าน Activity](th-general/start-activity.md)
 

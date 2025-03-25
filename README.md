@@ -1,29 +1,33 @@
 ---
-description: เชิญบอทสามารถเชิญได้ง่ายๆ ผ่าน 2 วิธีหลักๆ
-icon: robot
+description: >-
+  A music bot for your Discord server. Play your favorite songs from YouTube or
+  Spotify, and it supports multiple languages
 ---
 
-# เชิญบอท
+# Introduce
 
-{% hint style="success" %}
-เพิ่มบอทไปยังเซิร์ฟเวอร์ก่อนใช้งานบอททุกครั้ง
-{% endhint %}
+**🎶 HStudio 🎶**
 
-### 1. ลิ้งค์เชิญบอทโดยตรง
+Bring the beat to your Discord server with HStudio, the ultimate music companion! Whether you’re chilling with friends or hosting an epic party, HStudio has got you covered. Here's what HStudio can do:
 
-[https://discord.com/oauth2/authorize?client\_id=1105873690022924450](https://discord.com/oauth2/authorize?client_id=1105873690022924450)
+**🌟 Features**
 
-<figure><img src=".gitbook/assets/image (9).png" alt="" width="446"><figcaption><p>ลิ้งค์เชิญบอทโดยตรง</p></figcaption></figure>
+* High-Quality Audio: Stream your favorite songs in crystal-clear quality.
+* YouTube, Spotify, and More: Play music from a variety of sources.
+* Custom Playlists: Create, save, and share your own playlists.
+* Seamless Controls: Easy-to-use commands for playing, pausing, skipping, and queuing songs.
+* 24/7 Music: Keep the tunes going all day and night with continuous play.
+* Advanced Search: Find the exact song you’re looking for with powerful search capabilities.
+* User-Friendly Interface: Simple and intuitive commands for a hassle-free experience.
+* Interactive Features: Vote to skip songs, request tracks, and more!
 
-### 2. เลือกเซิร์ฟเวอร์ที่ต้องการเพิ่มบอท
+**🎧 Commands**
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="398"><figcaption><p>เลือกเซิร์ฟเวอร์ที่ต้องการเพิ่มบอท</p></figcaption></figure>
+* /play \[song/URL]: Start playing a song or add it to the queue.
+* /pause: Pause the current track.
+* /resume: Resume the paused track.
+* /skip: Skip to the next song.
+* /queue: View the current queue.
+* /volume \[1-200]: Adjust the volume.
 
-### 3. กดอนุญาตเพื่อเพิ่มบอทไปยังเซิร์ฟเวอร์
-
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt="" width="449"><figcaption><p>อนุญาตให้บอทเข้าสู่เซิร์ฟเวอร์</p></figcaption></figure>
-
-### 4. เมื่อกลับไปยังเซิร์ฟเวอร์ก็จะเห็นบอทเข้ามาในเซิร์ฟเวอร์แล้ว
-
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
+Join the harmony and elevate your Discord experience with HStudio. Add HStudio to your server today and start the musical journey!
