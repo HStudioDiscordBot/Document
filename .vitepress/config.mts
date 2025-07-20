@@ -29,7 +29,7 @@ export default defineConfig({
         },
 
         nav: [
-          { text: "คู่มือ", link: "/guide/introduce" },
+          { text: "คู่มือ", link: "/th/guide/introduce" },
           { text: "Discord", link: "https://discord.gg/GzTbuZHTEx", target: "_blank" },
           { text: "เว็บไซต์", link: "https://www.hstudiobot.com", target: "_blank" },
         ],
