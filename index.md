@@ -4,15 +4,16 @@ layout: home
 
 hero:
   name: "HStudio"
-  text: "24/7 Music bot for Free"
-  tagline: My great project tagline
+  text: "24/7 Music bot"
+  tagline: Enjoy favorite music
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Getting Started
+      link: /guide/introduce
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Invite Bot
+      link: https://discord.com/oauth2/authorize?client_id=1105873690022924450
+      target: _blank
 
 features:
   - title: High-Quality Audio
