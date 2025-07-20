@@ -15,7 +15,7 @@ hero:
       link: https://discord.com/oauth2/authorize?client_id=1105873690022924450
       target: _blank
   image:
-    src: ./public/HStudio.transparent.png
+    src: /HStudio.transparent.png
     alt: HStudio
 
 features:
