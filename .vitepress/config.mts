@@ -56,6 +56,11 @@ export default defineConfig({
             ]
           }
         ],
+
+        footer: {
+          message: 'สร้างโดย <a href="https://vitepress.dev" target="_blank">VitePress</a> และ <a href="https://pages.cloudflare.com" target="_blank">Cloudflare Pages</a>',
+          copyright: 'สงวนลิขสิทธิ์ © HStudio 2025'
+        }
       }
     }
   },
@@ -109,6 +114,11 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "github", link: "https://github.com/HStudioDiscordBot/Document" }
-    ]
+    ],
+
+    footer: {
+      message: 'Powered by <a href="https://vitepress.dev" target="_blank">VitePress</a> and <a href="https://pages.cloudflare.com" target="_blank">Cloudflare Pages</a>',
+      copyright: '© HStudio 2025. All rights reserved.'
+    }
   }
 })
