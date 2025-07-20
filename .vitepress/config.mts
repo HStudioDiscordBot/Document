@@ -10,6 +10,8 @@ export default defineConfig({
     hostname: "https://docs.hstudiobot.com",
   },
 
+  cleanUrls: true,
+
   locales: {
     root: {
       label: "English",
