@@ -76,7 +76,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
-    logo: "../assets/favicon.ico",
+    logo: "public/favicon.ico",
 
     editLink: {
       pattern: 'https://github.com/HStudioDiscordBot/Document/edit/main/:path',
