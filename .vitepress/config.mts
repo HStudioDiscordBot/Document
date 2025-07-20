@@ -6,6 +6,10 @@ export default defineConfig({
   title: "HStudio",
   description: "24/7 Music bot for Free",
 
+  sitemap: {
+    hostname: "https://docs.hstudiobot.com",
+  },
+
   locales: {
     root: {
       label: "English",
