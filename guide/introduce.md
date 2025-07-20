@@ -3,6 +3,7 @@ outline: deep
 ---
 
 # Introduce
+A music bot for your Discord server. Play your favorite songs from YouTube or Spotify, and it supports multiple languages
 
 ## HStudio
 
