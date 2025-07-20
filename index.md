@@ -15,11 +15,17 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: High-Quality Audio
+    details: Stream your favorite songs in crystal-clear quality.
+    icon: 🎵
+  - title: YouTube, Spotify, and More
+    details: Play music from a variety of sources.
+    icon: 🌐
+  - title: Custom Playlists
+    details: Create, save, and share your own playlists.
+    icon: 📂
+  - title: 24/7 Music
+    details: Keep the tunes going all day and night with continuous play.
+    icon: ⏰
 ---
 
