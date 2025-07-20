@@ -66,13 +66,13 @@ export default defineConfig({
   },
 
   head: [
-    ["link", { rel: "icon", href: "/favicon.ico" }]
+    ["link", { rel: "icon", href: "../assets/favicon.ico" }]
   ],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
-    logo: "/favicon.ico",
+    logo: "../assets/favicon.ico",
 
     editLink: {
       pattern: 'https://github.com/HStudioDiscordBot/Document/edit/main/:path',
