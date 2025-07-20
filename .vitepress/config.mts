@@ -80,6 +80,22 @@ export default defineConfig({
 
     logo: "/favicon.ico",
 
+    search: {
+      provider: "local",
+      options: {
+        locales: {
+          th: {
+            translations: {
+              button: {
+                buttonText: "ค้นหา",
+                buttonAriaLabel: "ค้นหา"
+              },
+            }
+          }
+        }
+      }
+    },
+
     editLink: {
       pattern: 'https://github.com/HStudioDiscordBot/Document/edit/main/:path',
       text: 'Edit this page on GitHub'
