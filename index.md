@@ -14,6 +14,9 @@ hero:
       text: Invite Bot
       link: https://discord.com/oauth2/authorize?client_id=1105873690022924450
       target: _blank
+  image:
+    src: ./assets/HStudio.transparent.png
+    alt: HStudio
 
 features:
   - title: High-Quality Audio
