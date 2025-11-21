@@ -63,7 +63,3 @@ outline: deep
 
 **Advanced Permissions**
 ![Administrator](../assets/bot-permission-en-mobile-administrator.png)
-
----
-
-If you want, I can also rewrite it to be clearer, shorter, or more professional!
