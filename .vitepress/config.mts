@@ -136,6 +136,12 @@ export default defineConfig({
         ]
       },
       {
+        text: "FAQ",
+        items: [
+          { text: "Bot Permission Issue", link: "/faq/bot-permission" },
+        ]
+      },
+      {
         text: "Policy",
         items: [
           { text: "Privacy Policy", link: "https://www.hstudiobot.com/privacy-policy", target: "_blank" },
