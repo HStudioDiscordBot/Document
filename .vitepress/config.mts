@@ -55,6 +55,12 @@ export default defineConfig({
             ]
           },
           {
+            text: "ปัญหาที่พบบ่อย",
+            items: [
+              { text: "แก้ปัญหาบอทไม่มีสิทธิ์เล่นเพลง", link: "/th/guide/faq-bot-permission" },
+            ]
+          },
+          {
             text: "นโยบาย",
             items: [
               { text: "นโยบายความเป็นส่วนตัว", link: "https://www.hstudiobot.com/privacy-policy", target: "_blank" },
