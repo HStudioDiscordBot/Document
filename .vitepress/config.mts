@@ -57,7 +57,7 @@ export default defineConfig({
           {
             text: "ปัญหาที่พบบ่อย",
             items: [
-              { text: "แก้ปัญหาบอทไม่มีสิทธิ์เล่นเพลง", link: "/th/guide/faq-bot-permission" },
+              { text: "แก้ปัญหาบอทไม่มีสิทธิ์เล่นเพลง", link: "/th/faq/bot-permission" },
             ]
           },
           {
