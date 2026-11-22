@@ -57,6 +57,7 @@ export default defineConfig({
           {
             text: "ปัญหาที่พบบ่อย",
             items: [
+              { text: "คำถามที่พบบ่อย", link: "/th/faq/general" },
               { text: "แก้ปัญหาบอทไม่มีสิทธิ์เล่นเพลง", link: "/th/faq/bot-permission" },
             ]
           },
@@ -138,6 +139,7 @@ export default defineConfig({
       {
         text: "FAQ",
         items: [
+          { text: "General FAQ", link: "/faq/general" },
           { text: "Bot Permission Issue", link: "/faq/bot-permission" },
         ]
       },
